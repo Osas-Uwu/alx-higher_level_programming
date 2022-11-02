@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Sangwani P Zyambo <mightypz2@gmail.com>
-# Software engineer at ALX
+# Osariemen Uwuilekhue J <uwuilekhue.osariemen@gmail.com>
+# Software engineering ALX
 """This module defines unittests for base.py.
 """
 
