@@ -1,4 +1,3 @@
-myreadme
 x15. JavaScript - Web jQuery
 By Guillaume, CTO at Holberton School
 Weight: 1
